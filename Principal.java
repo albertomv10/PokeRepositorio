@@ -21,7 +21,7 @@ public class Principal {
 		System.out.print("El número en decimal es:" + (int)num_dec);
 		
 		scanner.close(); 
-		
+		// hola
 	}
 
 }
